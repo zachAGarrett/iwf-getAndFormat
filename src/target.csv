@@ -1,0 +1,242 @@
+Sport,Season,Competition,EventID,EventNameShort,EventGender,CompetitionDate,PersonAgeDays,PersonID,Country,Competitor,Rank
+Weightlifting,2023,IWF Grand Prix,100017471,55kg ,Men,6/8/2023,8735,2032140,CUB,Osmel Argote Castillo,1
+Weightlifting,2023,IWF Grand Prix,100017471,55kg ,Men,6/8/2023,8789,1273721,GUA,José Ical,2
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,8541,1645503,INA,Ricko Saputra,1
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,7664,2059442,MAS,Mohamad Aniq Kasdan,6
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,11262,844913,ESP,Josue Brachi,13
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,11049,858502,TPE,Kao Chan-Hung,7
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,10319,1093510,PER,Luis Bardalez,9
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,10657,1144450,MAS,Aznil Bidin,4
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,9145,1163106,ECU,Jesús Garrido,8
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,7984,1546725,THA,Natthawat Chomchuen,10
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,8541,1583387,GUA,Henry Eduardo Esquivel Morales,14
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,8943,1666653,RUS,Henadz Laptseu,5
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,8870,1745450,CUB,Arley Lazaro Calderon Licourt,3
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,7053,1813870,USA,Hampton Morris,2
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,6540,2198822,TUR,Mustafa Elis,12
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,8136,2198851,CAN,Youri Simard,11
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,7883,2323551,CUB,Raibet Orelvis Machado Olivera,15
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,12375,636333,INA,Eko Yuli Irawan,1
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,11481,859784,COL,Francisco Mosquera,2
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,7806,1645514,ITA,Sergio Massidda,3
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,8545,1645481,INA,Mohammad Yasin,4
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,8948,2092644,CUB,Reydiel Herrera Vega,5
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,9574,1925497,VEN,Wilkeiner Lugo,6
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,10683,857550,COL,Jhon Serna Mendoza,7
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,9423,1273594,GUA,Dario Cruz,8
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,7739,1813769,USA,Ryan Grimsland,1
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,12075,607608,FRA,Bernardin Kingue Matam,8
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,9357,1187193,NCA,Orlando Vásquez,14
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,9837,1263434,CAN,Nicolas Vachon,10
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,9504,1271128,HON,Jorge Hernández,13
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,8173,1415770,TUR,Furkan Özbek,2
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,9547,1497911,MEX,Jorge Cárdenas,9
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,8854,1513188,GUA,Henry Méndez,17
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,8600,1547969,MAS,Erry Hidayat,11
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,11195,1745434,DOM,Julio Cesar Cedeño,7
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,10712,1794639,NCA,Armando Britton,16
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,7828,1821600,AZE,Omar Javadov,6
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,7131,1958375,ESP,Ismail Jamali Boulaayoun,12
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,8251,2032326,ECU,Jair Reyes,5
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,7650,2085890,CHI,Sergio Cares Valdes,15
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,11350,2192641,PUR,Concepcion Cruz,18
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,7306,2198795,RUS,Andrei Fralou,3
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,7071,2295223,USA,Caden Cahoy,4
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,8278,1645500,INA,Rahmat Abdullah,1
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,7161,1790255,TKM,Gaygysyz Torayev,2
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,8322,1818361,CAN,Samuel Guertin,3
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,8040,1968725,CUB,Edisnel Corrales,6
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,10835,2192654,JAM,Omarie Mears,7
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,6112,2303089,CAN,Brayan Ibanez Guerrero,5
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,6494,2417865,CUB,Yorelvis Machado Olivera,4
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,11064,858595,RUS,Petr Asayonak,1
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,12217,823015,IRQ,Safaa Al-Jumaili,3
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,9900,1093516,USA,Nathan Damron,2
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8408,1163018,USA,Clarence Cummings,10
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,9123,1393713,CAN,Alex Bellemarre,5
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8502,1645517,TKM,Shatlyk Shohradov,8
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,7895,1813780,ECU,Iván Escudero,4
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8448,1922946,GUA,Jaime Leon,13
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8308,2032404,CUB,Ariolvis Begue Gonzalez,7
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,6780,2246776,PUR,Cameron Yomar Andres Lopez,12
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,9984,2265790,CAN,Braydon Kennedy,9
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8046,2408834,KAZ,Sergey Petrovich,6
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,7207,2417867,NZL,Xavier Tiffany,11
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,10926,1254012,BLR,Pavel Khadasevich,1
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,9483,1163110,MEX,José Luis López,2
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,9775,1236510,FRA,Brandon Vautard,3
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,7787,1813867,PER,Amel Atencia,4
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,7269,2295280,CAN,Xavier Lusignan,5
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,8295,1513634,HON,Axel Pavon,6
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,12002,2192644,PUR,Giovanny Rolon,7
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,8990,1666683,BLR,Yauheni Tsikhantsou,1
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,12078,1485250,USA,Wesley Kitts,2
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,9167,1263849,TPE,Chen Po-Jen,3
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,7671,2017218,BLR,Siarhei Sharankou,4
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,8881,1818354,CUB,Juan Carlos Zaldivar,5
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,8963,1674811,VEN,Jhoan Sanguino,6
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,11548,1050482,BRA,Marco Machado,7
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,11436,1350205,LTU,Irmantas Kacinskas,8
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,9832,1093412,AZE,Dadash Dadashbayli,9
+Weightlifting,2023,IWF Grand Prix,100017495,109kg ,Men,6/17/2023,10111,1393752,KOR,Jin Yun-Seong,1
+Weightlifting,2023,IWF Grand Prix,100017495,109kg ,Men,6/17/2023,10371,1689101,CUB,Juan Columbié Sanamé,2
+Weightlifting,2023,IWF Grand Prix,100017495,109kg ,Men,6/17/2023,11109,857697,PER,Hernan Viera,3
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,8854,1546611,IRI,Ali Davoudi,1
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,9838,1343901,NZL,David Liti,2
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,9554,1163275,SRB,Tamaš Kajdoci,3
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,10390,2417858,USA,Aaron Williams,4
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,9441,1462796,ECU,Dixon Arroyo,5
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,10726,1042966,GUA,Gilberto Lemus,6
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,9672,1495513,PHI,Rowel Garcia,NULL
+Weightlifting,2023,IWF Grand Prix,100017474,61kg ,Men,6/9/2023,12646,1726035,USA,Brian Reisenauer,NULL
+Weightlifting,2023,IWF Grand Prix,100017477,67kg ,Men,6/11/2023,11672,993408,GER,Simon Brandhuber,NULL
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,10303,1093557,COL,Luis Mosquera,NULL
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,9369,1163154,ITA,Mirko Zanni,NULL
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,10803,1172210,JPN,Takehiro Kasai,NULL
+Weightlifting,2023,IWF Grand Prix,100017480,73kg ,Men,6/11/2023,7299,2065732,INA,Rizki Juniansyah,NULL
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,12725,482193,ALB,Erkand Qerimaj,NULL
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,10439,858278,TUN,Karem Ben Hnia,NULL
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,10873,858588,KSA,Mahmoud Mohammed Al Humiyd,NULL
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,10555,1237612,ESP,David Sánchez,NULL
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,9864,1689115,ITA,Óscar Reyes,NULL
+Weightlifting,2023,IWF Grand Prix,100017483,81kg ,Men,6/13/2023,7643,1821608,SVK,Sebastián Cabala,NULL
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,9794,1093396,ITA,Antonino Pizzolato,NULL
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,9342,1163254,COL,Santiago Rodallega,NULL
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8687,1378064,COL,Yeison López,NULL
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,10490,1497880,CUB,Olfides Sáez Vera,NULL
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8590,1664944,AUS,Kyle Bruce,NULL
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,8888,1718492,RUS,Ihar Lozka,NULL
+Weightlifting,2023,IWF Grand Prix,100017486,89kg ,Men,6/14/2023,9836,2192321,INA,Muhamad Zul Ilmi,NULL
+Weightlifting,2023,IWF Grand Prix,100017489,96kg ,Men,6/15/2023,9520,1273552,CAN,Boady Santavy,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,9081,1666652,IRQ,Hayder Al-Badrawi,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,11966,1506190,TGA,Joshua Uikilifi,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,7159,1926555,AZE,Ali Shukurli,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,8985,1792939,IRI,Rasoul Motamedi Sedeh,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,9964,1275589,BRN,Lesman Paredes,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,10119,1093533,COL,Jhor Moreno,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,9106,1378119,COL,Jonathan Rivas,NULL
+Weightlifting,2023,IWF Grand Prix,100017492,102kg ,Men,6/16/2023,9676,2258589,USA,Ryan Sester,NULL
+Weightlifting,2023,IWF Grand Prix,100017495,109kg ,Men,6/17/2023,9034,1923035,COL,Oscar Garces,NULL
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,8998,1666649,BLR,Eduard Ziaziulin,NULL
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,9958,2323521,USA,Alejandro Jose Medina,NULL
+Weightlifting,2023,IWF Grand Prix,200017516,45kg ,Women,6/9/2023,8483,1443054,VEN,Rosielis Quintana,1
+Weightlifting,2023,IWF Grand Prix,200017516,45kg ,Women,6/9/2023,6402,2417860,CUB,Thalia Fidelia Castillo Contreras,2
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,10329,859884,DOM,Beatriz Piron,1
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,9678,1093445,MEX,Andrea De La Herran,6
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,8914,1163354,TPE,Fang Wan Ling,7
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,8809,1378079,USA,Hayley Reichardt,2
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,12303,1406105,CAN,Amanda Braddock,9
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,9090,1562951,GBR,Fraer Morrow,8
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,9573,1583431,JPN,Ibuki Takahashi,5
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,8181,1709747,TUR,Duygu Alici,11
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,7864,1813830,DOM,Dahiana Ortiz,3
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,11595,1968741,GUA,Silvana Maria Gonzalez Sanchez,12
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,8541,2017212,TPE,Lin Cheng Jing,4
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,11000,2265835,ESP,Maria Jose Gimenez Guervos,10
+Weightlifting,2023,IWF Grand Prix,200017519,49kg ,Women,6/8/2023,7707,2323543,CUB,Franchesca Miledis Simon Aren,13
+Weightlifting,2023,IWF Grand Prix,200017522,55kg ,Women,6/10/2023,9152,1378088,USA,Jourdan Delacruz,1
+Weightlifting,2023,IWF Grand Prix,200017522,55kg ,Women,6/10/2023,8585,1271164,PER,Shoely Mego,2
+Weightlifting,2023,IWF Grand Prix,200017522,55kg ,Women,6/10/2023,11296,2323545,CAN,Josee Gallant,3
+Weightlifting,2023,IWF Grand Prix,200017522,55kg ,Women,6/10/2023,6745,2192651,PUR,Issi Agrait,4
+Weightlifting,2023,IWF Grand Prix,200017522,55kg ,Women,6/10/2023,8003,1645439,ITA,Giulia Imperio,NULL
+Weightlifting,2023,IWF Grand Prix,200017522,55kg ,Women,6/10/2023,10468,858498,ESP,Atenery Hernández,NULL
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,9360,1163176,MEX,Janeth Gómez,1
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,11162,1954011,USA,Danielle Marie Gunnin,NULL
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,10557,858375,VEN,Genesis Rodríguez,7
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,11111,858401,VEN,Yusleidy Figueroa,14
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,10790,858556,TPE,Kuo Hsing-Chun,NULL
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,9665,1060496,MHL,Mathlynn Sasser,4
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,8818,1163191,ITA,Lucrezia Magistris,NULL
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,7886,1343950,TUN,Ghofrane Belkhir,NULL
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,10441,1433282,GBR,Laura Wheatcroft,12
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,8225,1534408,RUS,Alina Shchapanava,3
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,8677,1583433,NCA,Javiana Pavon,13
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,7468,1645563,ECU,Samantha Becerra,8
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,9513,1674835,USA,Taylor Turner,2
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,9794,1715930,JPN,Mako Yamamoto,NULL
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,7626,1718505,BEL,Nina Sterckx,10
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,7753,1958320,MEX,Daphne Guillén,5
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,8623,2192663,DOM,Nathalia Novas,NULL
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,7916,2258592,HON,Sofia Aleman,17
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,6382,2265780,INA,Sarah,11
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,8281,2311281,INA,Natasya Beteyob,9
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,8015,2323532,COL,Concepcion Usuga Correa,6
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,6937,2417863,NCA,Mariana Lisbeth Olivas Meza,16
+Weightlifting,2023,IWF Grand Prix,200016416,59kg ,Women,6/12/2023,7441,2417864,CUB,Yailiana Lopez Charon,15
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,7722,2060693,BLR,Maiseyevich Dziyana,1
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,10118,1093443,COL,Lobon Maria,2
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,10201,2267571,KOR,Jian Han,3
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,12045,1182799,TPE,Hung Wan-Ting,4
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,10764,2372260,LBN,Alexa Mina,5
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,8632,2192664,CUB,Regla Morales,6
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,11003,1583448,CAN,Maude Charron,NULL
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,12353,1441090,NOR,Ine Andersson,NULL
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,10247,1093404,COL,Yenny Álvarez,NULL
+Weightlifting,2023,IWF Grand Prix,200016429,64kg ,Women,6/13/2023,10864,858561,ESP,Irene Martínez,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8222,1378061,ECU,Paola Palacios,1
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,10061,941138,MEX,Ana Carmen Torres,14
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,9341,1093390,MEX,Ana Durán,9
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,9607,1275613,TPE,Chen Wen-Huei,4
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,12344,1323217,LBN,Mahassen Hala Fattouh,15
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,9857,1393736,JPN,Haruka Fukuzato,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8336,1415714,RUS,Siuzanna Valodzka,2
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,9021,1506910,ISR,Celia Gold,11
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,7660,1645440,ITA,Giulia Miserendino,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,9078,1666671,USA,Meredith Alwine,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8576,1689119,NCA,Sema Ludrick Rivas,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,10370,1920944,SVK,Nina Rondziková,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,9257,1926584,LTU,Lijana Jakaite,13
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,7361,1958314,USA,Olivia Reeves,3
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,9323,1968744,CUB,Yeniuska Mirabal,8
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8571,2036439,IRL,Gillian Barry,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8941,2192650,DOM,Fransheska Matias,6
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,7541,2198846,INA,Restu Anggi,12
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8024,2243636,ISL,Eyglo Fanndal Sturludottir,7
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,12104,2300184,GBR,Erin Barton,10
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8907,2327706,CAN,Alexis Ashworth,5
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,8499,2372287,CAN,Megan Trupp,NULL
+Weightlifting,2023,IWF Grand Prix,200017525,71kg ,Women,6/14/2023,7527,2417859,HON,Dayanira James,NULL
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,8811,1818364,USA,Katherine Vibert,1
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,7780,1645372,ECU,Bella Paredes,2
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,9697,2417861,MEX,Diana Laura Garcia Hernandez,3
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,6925,2189432,BLR,Ryna Litoshyk,4
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,8722,1378048,MEX,Lizbeth Nolasco,5
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,9798,2258593,CAN,Shania Bedward,6
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,10603,1726031,COL,Miyareth Mendoza,NULL
+Weightlifting,2023,IWF Grand Prix,200016452,76kg ,Women,6/15/2023,13770,450974,ESP,Lidia Valentín,NULL
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,8981,2189436,NOR,Solfrid Koanda,1
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,9442,1144466,ECU,Yajaira Salazar,2
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,9166,941130,ECU,Neisi Dajomes,3
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,9508,2192670,DOM,Yudelina Mejia,4
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,10159,1275616,USA,Martha Rogers,5
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,11368,2258595,CAN,Rosalie Dumas,6
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,8867,1378080,COL,Helen Escobar,7
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,7776,1546723,JPN,Motoka Nakajima,8
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,9567,1353701,GBR,Katrina Feklistova,9
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,7770,2060658,BLR,Darya Kheidzer,10
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,10981,858496,MEX,Aremi Fuentes,11
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,6308,2323525,GUA,Beverly Shanen De Leon Cardoza,12
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,12172,589051,COL,Leidy Solís,NULL
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,9246,1407464,CUB,Ayamey Damiana Medina,NULL
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,8655,1163316,TKM,Polina Gurýeva,NULL
+Weightlifting,2023,IWF Grand Prix,200017528,81kg ,Women,6/15/2023,10209,1275607,CAN,Maya Laylor,NULL
+Weightlifting,2023,IWF Grand Prix,200017531,87kg ,Women,6/17/2023,9902,941146,TPE,Lo Ying-Yuan,1
+Weightlifting,2023,IWF Grand Prix,200017531,87kg ,Women,6/17/2023,9207,1343909,ECU,Dayana Mina,2
+Weightlifting,2023,IWF Grand Prix,200017531,87kg ,Women,6/17/2023,7193,2295240,CUB,Elizabeth Caridad Reyes Entenza,3
+Weightlifting,2023,IWF Grand Prix,200017531,87kg ,Women,6/17/2023,11414,725033,CHI,María Valdés,4
+Weightlifting,2023,IWF Grand Prix,200017531,87kg ,Women,6/17/2023,12666,2192669,JAM,Yvgeni Henderson,5
+Weightlifting,2023,IWF Grand Prix,200017531,87kg ,Women,6/17/2023,8455,1645614,COL,Valeria Rivas,NULL
+Weightlifting,2023,IWF Grand Prix,200017531,87kg ,Women,6/17/2023,10194,1043029,CAN,Kristel Ngarlem,NULL
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,11915,2092625,USA,Mary Theisen-Lappen,1
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,12739,737928,USA,Sarah Robles,2
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,9081,1236310,ECU,Lisseth Ayovi,3
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,10286,1236659,DOM,Crismery Santana,4
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,11083,1674827,INA,Nurul Akmal,5
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,11350,993419,DOM,Veronica Saladin,6
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,6871,2323553,CUB,Marifelix Sarria Ruiz,7
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,9859,1236693,GBR,Mercy Brown,8
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,7760,2198812,CAN,Emma Friesen,9
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,8472,1504045,GUA,Scarleth Ucelo,10
+Weightlifting,2023,IWF Grand Prix,200017534,+87kg ,Women,6/18/2023,8907,1745469,CUB,Dalia Correa,11
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,11146,1968726,CAN,Everett Quinn,NULL
+Weightlifting,2023,IWF Grand Prix,100017498,+109kg ,Men,6/18/2023,9529,1513709,COL,Rafael Cerro,NULL

@@ -31,6 +31,9 @@ const dotenv = __importStar(require("dotenv"));
 const graphql_request_1 = require("graphql-request");
 const detailedCompetitionResults_1 = __importDefault(require("./lib/graph/competition/query/detailedCompetitionResults"));
 const dayjs_1 = __importDefault(require("dayjs"));
+const queryCSV_1 = __importDefault(require("./lib/queryCSV"));
+const csv_parser_1 = __importDefault(require("csv-parser"));
+const sqlite3 = require("sqlite3").verbose();
 function formatAndWriteToCSV(competitions) {
     const formattedData = competitions
         .map((competition) => {
@@ -75,6 +78,7 @@ function formatAndWriteToCSV(competitions) {
     const csvData = [header, dataRows.join("\n")].join("\n");
     // Specify the file path where you want to save the CSV
     const filePath = "data.csv";
+    const res = (0, queryCSV_1.default)();
     // Write the CSV data to the file
     fs_1.default.writeFileSync(filePath, csvData, "utf-8");
 }
@@ -85,6 +89,70 @@ function formatAndWriteToCSV(competitions) {
     if (GRAPH_URI === undefined) {
         throw new Error("Undefined environment variable, GRAPH_URI");
     }
+    const db = new sqlite3.Database("my_database.db");
+    // Create a table to store the data
+    db.serialize(() => {
+        db.run(`
+    CREATE TABLE IF NOT EXISTS my_table (
+      Sport TEXT,
+      Season INTEGER,
+      Competition TEXT,
+      EventID INTEGER PRIMARY KEY,
+      EventNameShort TEXT,
+      EventGender TEXT,
+      CompetitionDate TEXT,
+      PersonAgeDays INTEGER,
+      PersonID INTEGER,
+      Country TEXT,
+      Competitor TEXT,
+      Rank INTEGER
+    )
+  `);
+        // Read and insert data from the CSV
+        fs_1.default.createReadStream("./src/lib/queryCSV/target.csv")
+            .pipe((0, csv_parser_1.default)())
+            .on("data", (row) => {
+            db.run(`
+        INSERT INTO my_table (
+          Sport,
+          Season,
+          Competition,
+          EventID,
+          EventNameShort,
+          EventGender,
+          CompetitionDate,
+          PersonAgeDays,
+          PersonID,
+          Country,
+          Competitor,
+          Rank
+        )
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        `, [
+                row.Sport,
+                parseInt(row.Season),
+                row.Competition,
+                parseInt(row.EventID),
+                row.EventNameShort,
+                row.EventGender,
+                row.CompetitionDate,
+                parseInt(row.PersonAgeDays),
+                parseInt(row.PersonID),
+                row.Country,
+                row.Competitor,
+                parseInt(row.Rank),
+            ], (err) => {
+                if (err) {
+                    console.error("Error inserting data:", err);
+                }
+            });
+        })
+            .on("end", () => {
+            console.log("Data has been inserted into the database.");
+            // Close the database connection
+            db.close();
+        });
+    });
     const client = new graphql_request_1.GraphQLClient(GRAPH_URI);
     const query = await client
         .request(detailedCompetitionResults_1.default, {

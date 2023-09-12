@@ -4,6 +4,7 @@ import { GraphQLClient } from "graphql-request";
 import detailedCompetitionResults from "./lib/graph/competition/query/detailedCompetitionResults";
 import { DetailedCompetitionResultsQuery } from "./__generated__/graphql";
 import dayjs from "dayjs";
+const sqlite3 = require("sqlite3").verbose();
 function formatAndWriteToCSV(
   competitions: DetailedCompetitionResultsQuery["competitions"]
 ) {
@@ -73,6 +74,12 @@ function formatAndWriteToCSV(
   if (GRAPH_URI === undefined) {
     throw new Error("Undefined environment variable, GRAPH_URI");
   }
+
+  /**
+   * Implement the gatabase from the CSV
+   * Query for data in the target to metge entities safely
+   */
+  const db = new sqlite3.Database("my_database.db");
 
   const client = new GraphQLClient(GRAPH_URI);
   const query = await client

@@ -22,10 +22,12 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",
     "dayjs": "^1.11.9",
     "dotenv": "^16.3.1",
     "graphql-request": "^6.1.0",
-    "json2csv": "^6.0.0-alpha.2"
+    "json2csv": "^6.0.0-alpha.2",
+    "sqlite3": "^5.1.6"
   }
 }
