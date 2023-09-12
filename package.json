@@ -1,0 +1,31 @@
+{
+  "name": "getandformat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build/index.js",
+    "build": "rimraf build && npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "graphql-codegen",
+    "watch": "graphql-codegen -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@graphql-codegen/cli": "^5.0.0",
+    "@graphql-codegen/client-preset": "^4.1.0",
+    "@parcel/watcher": "^2.2.0",
+    "@types/json2csv": "^5.0.3",
+    "@types/node": "^20.5.9",
+    "rimraf": "^5.0.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dayjs": "^1.11.9",
+    "dotenv": "^16.3.1",
+    "graphql-request": "^6.1.0",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
